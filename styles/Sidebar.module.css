@@ -45,7 +45,7 @@
   z-index: 111;
 }
 
-.list .linkStyle:hover {
+.list .linkContainer:hover {
   background-color: #ffffff;
   border-radius: 9px 0px 0px 9px;
   font-weight: 700;
